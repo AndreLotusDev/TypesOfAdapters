@@ -1,0 +1,17 @@
+C:\Users\My PC\source\repos\TypesOfAdapters\AdapterWithDI\bin\Debug\net6.0\AdapterWithDI.exe
+C:\Users\My PC\source\repos\TypesOfAdapters\AdapterWithDI\bin\Debug\net6.0\AdapterWithDI.deps.json
+C:\Users\My PC\source\repos\TypesOfAdapters\AdapterWithDI\bin\Debug\net6.0\AdapterWithDI.runtimeconfig.json
+C:\Users\My PC\source\repos\TypesOfAdapters\AdapterWithDI\bin\Debug\net6.0\AdapterWithDI.dll
+C:\Users\My PC\source\repos\TypesOfAdapters\AdapterWithDI\bin\Debug\net6.0\AdapterWithDI.pdb
+C:\Users\My PC\source\repos\TypesOfAdapters\AdapterWithDI\bin\Debug\net6.0\Autofac.dll
+C:\Users\My PC\source\repos\TypesOfAdapters\AdapterWithDI\obj\Debug\net6.0\AdapterWithDI.csproj.AssemblyReference.cache
+C:\Users\My PC\source\repos\TypesOfAdapters\AdapterWithDI\obj\Debug\net6.0\AdapterWithDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My PC\source\repos\TypesOfAdapters\AdapterWithDI\obj\Debug\net6.0\AdapterWithDI.AssemblyInfoInputs.cache
+C:\Users\My PC\source\repos\TypesOfAdapters\AdapterWithDI\obj\Debug\net6.0\AdapterWithDI.AssemblyInfo.cs
+C:\Users\My PC\source\repos\TypesOfAdapters\AdapterWithDI\obj\Debug\net6.0\AdapterWithDI.csproj.CoreCompileInputs.cache
+C:\Users\My PC\source\repos\TypesOfAdapters\AdapterWithDI\obj\Debug\net6.0\AdapterWithDI.csproj.CopyComplete
+C:\Users\My PC\source\repos\TypesOfAdapters\AdapterWithDI\obj\Debug\net6.0\AdapterWithDI.dll
+C:\Users\My PC\source\repos\TypesOfAdapters\AdapterWithDI\obj\Debug\net6.0\refint\AdapterWithDI.dll
+C:\Users\My PC\source\repos\TypesOfAdapters\AdapterWithDI\obj\Debug\net6.0\AdapterWithDI.pdb
+C:\Users\My PC\source\repos\TypesOfAdapters\AdapterWithDI\obj\Debug\net6.0\AdapterWithDI.genruntimeconfig.cache
+C:\Users\My PC\source\repos\TypesOfAdapters\AdapterWithDI\obj\Debug\net6.0\ref\AdapterWithDI.dll

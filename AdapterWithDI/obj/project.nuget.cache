@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c3DAk3X7MbTnMcyiczAXzB+N+KSYBg9JhCOzZymyW4WlBOV/2S5yLro2eOGAH5UhbBtJHI7LDC7i0jxGNuKlRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\My PC\\source\\repos\\TypesOfAdapters\\AdapterWithDI\\AdapterWithDI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\My PC\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\My PC\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

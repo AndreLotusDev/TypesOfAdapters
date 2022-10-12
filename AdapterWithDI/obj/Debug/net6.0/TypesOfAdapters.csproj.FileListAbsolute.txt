@@ -1,0 +1,5 @@
+C:\Users\My PC\source\repos\TypesOfAdapters\TypesOfAdapters\obj\Debug\net6.0\TypesOfAdapters.csproj.AssemblyReference.cache
+C:\Users\My PC\source\repos\TypesOfAdapters\TypesOfAdapters\obj\Debug\net6.0\TypesOfAdapters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My PC\source\repos\TypesOfAdapters\TypesOfAdapters\obj\Debug\net6.0\TypesOfAdapters.AssemblyInfoInputs.cache
+C:\Users\My PC\source\repos\TypesOfAdapters\TypesOfAdapters\obj\Debug\net6.0\TypesOfAdapters.AssemblyInfo.cs
+C:\Users\My PC\source\repos\TypesOfAdapters\TypesOfAdapters\obj\Debug\net6.0\TypesOfAdapters.csproj.CoreCompileInputs.cache
